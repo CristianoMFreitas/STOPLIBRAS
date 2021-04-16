@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuComoJogar"
+        android:orderInCategory="100"
+        android:title="Como Jogar"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuCM"
+        android:orderInCategory="100"
+        android:title="Configurações de Mão"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuPontuacao"
+        android:orderInCategory="100"
+        android:title="Pontuação"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuSobre"
+        android:orderInCategory="100"
+        android:title="Sobre"
+        app:showAsAction="never" />
+
+
+</menu>

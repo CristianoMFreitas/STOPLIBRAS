@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/vermelhoapp</color>
+    <color name="colorPrimaryDark">@color/vermelhoapp</color>
+    <color name="colorAccent">#D6690A</color>
+    <color name="vermelhoapp">#A83131</color>
+    <color name="preto">#000000</color>
+</resources>
